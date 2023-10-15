@@ -1,3 +1,5 @@
 This is my first commit on this github page
 
 # email address change
+- Learning how to work with git
+- Git is not the same thing as github
