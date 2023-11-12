@@ -2,3 +2,6 @@
 
 Hello Odin!
 # Changed email address from public to private
+
+This line was done on LMDE6
+# Usind Linux Mint Debian Edtion 6
