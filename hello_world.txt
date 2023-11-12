@@ -7,8 +7,6 @@ This is my first commit on this github page
 # This line was done in LMDE6
 - Working from Linux Mint the Debian Edition 6
 
-# Testing git push
-
 # Commit the file with git commit
 - Try new git commit
 
