@@ -10,3 +10,4 @@ This is my first commit on this github page
 # Testing git push
 
 # Commit the file with git commit
+- Try new git commit
