@@ -1,13 +1,1 @@
-This is my first commit on this github page
-
-# email address change
-- Learning how to work with git
-- Git is not the same thing as github
-
-# This line was done in LMDE6
-- Working from Linux Mint the Debian Edition 6
-
-# Commit the file with git commit
-- Try new git commit
-
-# Let's give it another try
+# This is a new empty file
